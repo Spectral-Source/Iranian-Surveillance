@@ -121,16 +121,20 @@ Iran has developed mobile radar units that can be strategically deployed to diff
 #### V1 Adaptive Modem
 
 - Speeds: 207 Bd, 414 Bd, 828 Bd, 1656 Bd
-- Bandwidth: Varies (see details)
+- Bandwidth: Varies. 300 Hz, ~620 Hz, ~1250 Hz, ~2520 Hz
 - Pre-carrier burst: Yes
 
 #### V2 Adaptive Modem
 
 - Speeds: 468 Bd, 936 Bd, 1872 Bd
-- Bandwidth: Varies (see details)
+- Bandwidth: Varies. 700 Hz, ~1420 Hz, ~2850 Hz
 - Pre-carrier burst: Yes
 
 ### Audio Sample
 - [Listen to Iranian Navy QPSK Modem Audio Sample](https://github.com/xxRON-js/Iranian-Surveillance/blob/main/audio/modemgo2.mp3)
-
+### The bursts of this PSK 468 Bd signal seen
+- ![The bursts of this PSK 468 Bd signal seen](https://github.com/xxRON-js/Iranian-Surveillance/blob/main/image/alys.png)
+### PSK 468 Bd analysis  
+![psk analysis](https://github.com/xxRON-js/Iranian-Surveillance/blob/main/image/Psk_any.png)
+![psk](https://github.com/xxRON-js/Iranian-Surveillance/blob/main/image/Psk_a2.jpg)
 <!-- Add more sections as needed -->
