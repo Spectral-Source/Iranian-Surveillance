@@ -58,7 +58,10 @@ Iran has developed mobile radar units that can be strategically deployed to diff
 
 ## 'Ghadir' OTH Radar
 
-![Ghadir OTH Radar](IranOTH.png)
+![Ghadir OTH Radar](https://github.com/xxRON-js/Iranian-Surveillance/blob/main/image/oth.png)
+
+### Frequencies
+- 28 MHz, 29.7 MHz
 
 ### Frequency Range
 - 28 MHz - 29.7 MHz
@@ -81,5 +84,53 @@ Iran has developed mobile radar units that can be strategically deployed to diff
 ### Audio Sample
 - [Listen to Ghadir Radar Audio Sample](https://github.com/xxRON-js/Iranian-Surveillance/blob/main/audio/Ghadir.mp3)
 
-<!-- Add more sections as needed -->
+## Iranian Navy QPSK Modem
 
+![Iranian Navy QPSK Modem](https://github.com/xxRON-js/Iranian-Surveillance/blob/main/image/gomodem.jpg)
+
+### Frequencies
+- 8.475 MHz, 8.046 MHz, 10.724 MHz, 17.3822 MHz
+
+### Frequency Range
+- 8.046 MHz - 17.3822 MHz
+
+### Mode
+- USB
+
+### Modulation
+- PSK
+
+### Bandwidth
+- 700 Hz, 300 Hz, 620 Hz, 1.25 kHz, 2.52 kHz, 1.42 kHz, 2.85 kHz
+
+### Location
+- Iran
+
+### Short Description
+- The Iranian Navy QPSK Modem is a QPSK mode used by the Iranian Navy, available in several versions. The current version (2015) is V2 and supports speeds of 468 Bd, 936 Bd, and 1872 Bd.
+
+### Characteristics
+
+#### Original QPSK 207 Bd Modem
+
+- Speed: 207 Bd
+- Bandwidth: 300 Hz
+- Pre-carrier burst: 2000 Hz, 100 ms before data transmission
+- End of message transmission: Two tones at 1000Hz (100ms and 110ms)
+
+#### V1 Adaptive Modem
+
+- Speeds: 207 Bd, 414 Bd, 828 Bd, 1656 Bd
+- Bandwidth: Varies (see details)
+- Pre-carrier burst: Yes
+
+#### V2 Adaptive Modem
+
+- Speeds: 468 Bd, 936 Bd, 1872 Bd
+- Bandwidth: Varies (see details)
+- Pre-carrier burst: Yes
+
+### Audio Sample
+- [Listen to Iranian Navy QPSK Modem Audio Sample](https://github.com/xxRON-js/Iranian-Surveillance/blob/main/audio/modemgo2.mp3)
+
+<!-- Add more sections as needed -->
