@@ -137,4 +137,65 @@ Iran has developed mobile radar units that can be strategically deployed to diff
 ### PSK 468 Bd analysis  
 ![psk analysis](https://github.com/xxRON-js/Iranian-Surveillance/blob/main/image/Psk_any.png)
 ![psk](https://github.com/xxRON-js/Iranian-Surveillance/blob/main/image/Psk_a2.jpg)
-<!-- Add more sections as needed -->
+
+
+
+## Known Equipment
+
+### Radar Systems
+
+- [Sepehr](https://en.wikipedia.org/wiki/Sepehr_(radar))
+- [Alim](https://en.wikipedia.org/wiki/Alim_radar_system)
+- [Falaq](https://en.wikipedia.org/wiki/Falaq_(radar))
+- [Asr](https://en.wikipedia.org/wiki/Asr_(radar))
+- [Arash](https://en.wikipedia.org/wiki/Arash_(radar))
+- [Ghamar](https://en.wikipedia.org/wiki/Ghamar_(3D_radar))
+- [Matla-ul-fajr](https://en.wikipedia.org/wiki/Matla-ul-fajr)
+- [Qadir](https://en.wikipedia.org/wiki/Phased_array_radar_Qadir)
+- [Kashef](https://en.wikipedia.org/wiki/Kashef)
+
+### Artillery Air-Defense Systems
+
+- [ZU-23-2](https://en.wikipedia.org/wiki/ZU-23-2)
+- [Oerlikon GDF](https://en.wikipedia.org/wiki/ZU-23-2)
+- [100 mm air defense gun KS-19](https://en.wikipedia.org/wiki/100_mm_air_defense_gun_KS-19)
+- [Mesbah 1](https://en.wikipedia.org/wiki/Mesbah_1)
+- [ZSU-23-4 Shilka](https://en.wikipedia.org/wiki/ZSU-23-4_Shilka)
+- [ZSU-57-2](https://en.wikipedia.org/wiki/ZSU-57-2)
+
+### Man-Portable Air-Defense Systems
+
+- [Misagh-1](https://en.wikipedia.org/wiki/Misagh-1)
+- [Misagh-2](https://en.wikipedia.org/wiki/Misagh-2)
+- [Qaem](https://en.wikipedia.org/wiki/Qaem)
+- [Kamin-2](https://en.wikipedia.org/wiki/Kamin-2)
+- [HN-5](https://en.wikipedia.org/wiki/HN-5)
+- [RBS-70](https://en.wikipedia.org/wiki/RBS-70)
+
+### Missile Air-Defense Systems
+
+- [MIM-23 Hawk](https://en.wikipedia.org/wiki/MIM-23_Hawk)
+- [Rapier](https://en.wikipedia.org/wiki/Rapier_(missile))
+- [2K12 Kub](https://en.wikipedia.org/wiki/2K12_Kub)
+- [Sayyad-2](https://en.wikipedia.org/wiki/Sayyad-2)
+- [Herz-9](https://en.wikipedia.org/wiki/Herz-9)
+- [Mersad](https://en.wikipedia.org/wiki/Mersad)
+- [MajidAD-08](https://en.wikipedia.org/wiki/Majid)
+- [HQ-2J](https://en.wikipedia.org/wiki/HQ-2J)
+- [HQ-7](https://en.wikipedia.org/wiki/HQ-7)
+- [Shalamcheh](https://en.wikipedia.org/wiki/Shalamcheh_(missile))
+- [Shahin](https://en.wikipedia.org/wiki/Shahin_missile_system)
+- [Ya Zahra](https://en.wikipedia.org/wiki/Ya_Zahra_air_defense_system)
+- [Ra'd](https://en.wikipedia.org/wiki/Raad_(air_defense_system))
+- [Khordad 15](https://en.wikipedia.org/wiki/Khordad_15_(air_defense_system))
+- [Khordad 3](https://en.wikipedia.org/wiki/Sevom_Khordad)
+- [Tabas](https://en.wikipedia.org/wiki/Tabas_(air_defense_system))
+- [Bavar-373](https://en.wikipedia.org/wiki/Bavar-373)
+- [Talaash](https://en.wikipedia.org/wiki/Talaash_air_defense_system)
+- [Tor](https://en.wikipedia.org/wiki/Tor_missile_system)
+- [S-75](https://en.wikipedia.org/wiki/S-75_Dvina)
+- [S-300](https://en.wikipedia.org/wiki/S-300_missile_system)
+- [SA-8](https://en.wikipedia.org/wiki/9K33_Osa)
+- [SA-13](https://en.wikipedia.org/wiki/9K35_Strela-10)
+- [SA-11/17](https://en.wikipedia.org/wiki/Buk_missile_system)
+
